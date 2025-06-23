@@ -1,6 +1,6 @@
-# Code_Web
-Info for CodeWeb,
-Translation soon
+# Idea process
+Info for project brainstorm,
+translation soon
 
 # Lluvia de ideas
 Necesitamos creadores de software. Claro, 
@@ -18,6 +18,20 @@ IA para lo que necesites.
 
 Otro problema muy peligroso son los estafadores
 digitales, un problema muy comun hoy en dia.
-Se puede hacer un bot de Discord que te pregunte
+Se puede hacer un bot que te pregunte
 datos sobre la pagina web y decirte si es segura
 o una estafa.
+
+# Analizo de opciones
+
+Encontrar trabjadores si es util, pero fuera dificil
+trabajar con IA o encontrar trabajadores.
+
+Trabajar el bot fuera facil, pero creo que fuera muy simple.
+
+Creo que una pagina web para programadores fuera la mejor 
+opcion, no es ni tan dificil ni tan facil y es util.
+
+# Conclusion
+Creo que escogere la pagina web de progrmacion.
+Se llamara CodeWeb.
